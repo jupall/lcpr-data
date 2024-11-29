@@ -19,6 +19,8 @@ The features are:
 
 Dataset analyses and benchmarks are provided in our paper.
 
+## Download:
+To access the dataset, clone this repository and unzip the files. We provide a French version as well as an English version.
 
 ## Cite this dataset and read our paper:
 Sliced-Wasserstein-based Anomaly Detection and Open Dataset for Localized Critical Peak Rebates.
