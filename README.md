@@ -6,7 +6,7 @@ This dataset is the property of Hydro-Québec and is under license CC BY-NC 4.0 
 The dataset is also available from this url: https://donnees.hydroquebec.com/explore/dataset/consommation-clients-evenements-pointe/information/
 
 ---
----
+
 ## Description:
 In this work, we address the lack of open-source datasets showcasing CPR demand response mechanisms in northern climates by releasing two years of aggregated consumption data for customers participating in an LCPR program in Montréal, Québec, Canada. These customers are spread in three adjacent distribution substations. With it, we hope to stimulate research on trustworthy ML models for demand response applications.
 
