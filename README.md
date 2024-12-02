@@ -1,7 +1,7 @@
 # lcpr-data
 Open dataset showcasing 2.5 years of critical peak rebates demand response in a Northern climate (Montreal).
 
-This dataset is the property of Hydro-Québec and is under license CC BY-NC 4.0 which which forbids any commercial use.
+**This dataset is the property of Hydro-Québec and is under license CC BY-NC 4.0 which which forbids any commercial use.**
 
 The dataset is also available from this url: https://donnees.hydroquebec.com/explore/dataset/consommation-clients-evenements-pointe/information/
 
